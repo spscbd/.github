@@ -11,7 +11,7 @@
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://fb.com/ius.coders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ius.coders" height="30" width="40" /></a>
-<a href="https://discord.gg/eVJN4gHXuW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eVJN4gHXuW" height="30" width="40" /></a>
+<a href="https://discord.gg/Fsg3S5snZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eVJN4gHXuW" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
